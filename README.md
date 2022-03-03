@@ -28,7 +28,7 @@ This is another very common pattern on the web.
 
 ### Screenshot
 
-![Outcome](.images/outcome.png)
+![Outcome](./images/illustration.png)
 
 ### Links
 
@@ -42,4 +42,4 @@ This is another very common pattern on the web.
 
 ## Author
 
--  Frontend Mentor - [Melvin](https://www.frontendmentor.io/profile/boymelvs)
+-  [Melvin](https://www.frontendmentor.io/profile/boymelvs)
